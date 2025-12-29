@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Island Notch",
+  "description": "A macOS-inspired dynamic notch with music controls, app shortcuts, and a built-in Gemini AI assistant.",
+  "requestFramePermissions": []
+}
